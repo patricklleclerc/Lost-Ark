@@ -8,21 +8,16 @@
   
 The Chaos and Cube build heavily focuses on large Area of Effect (AoE) skills with low Cooldowns to clear the content as fast as possible. This content isn't difficult and can easily be completed by spamming skills. The Cube requires some additional teamwork and stage knowledge to complete.
 
-### Combat Stat Distribution
+  ### Combat Stat Distribution
 
 Sub-stat priority is not important, as the content is easy as long as the player is using matching Tier Gear and accessories. Swiftness and Specializatioon stats help with speed clearing, but is not necessary if you don't have separate sets of accessories.
 
 ### Chaos & Cube Skill Build
 
-<p align="center">
-  <img 
-    width="400"
-    height="400"
-    src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/Screenshot%202022-02-17%20at%2002-43-36%20Bard%20Chaos%20Dungeon%20and%20Cube%20Guide%20for%20Lost%20Ark%20on%20Maxroll%20gg.png"
-  >
-</p>
+<p float="left">
+  <img src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/Screenshot%202022-02-17%20at%2002-43-36%20Bard%20Chaos%20Dungeon%20and%20Cube%20Guide%20for%20Lost%20Ark%20on%20Maxroll%20gg.png" width="550" height="500"
 
-- <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_8.png" width="20" height="20"> Stigma and <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20"> Dissonance are very low Cooldown Area of Effects (AoE) abilities that clean up most packs of mobs.
+<div align="left"> <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_8.png" width="20" height="20"> Stigma and <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20"> Dissonance are very low Cooldown Area of Effects (AoE) abilities that clean up most packs of mobs.
 
 - <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_7.png" width="20" height="20"> Prelude of Storm and <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_13.png" width="20" height="20"> Sonic Vibration work great at low levels, as they both CC mobs with stun.
 
@@ -34,9 +29,11 @@ Sub-stat priority is not important, as the content is easy as long as the player
 
 - <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_19.png" width="20" height="20"> Save your Serenade of Courage (Z) for the Boss in phase 2.
 
-- Use your second Awakening <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_25.png" width="20" height="20"> Oratorio once you unlock it since it does way more damage. Until then you can use <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_23.png" width="20" height="20"> Symphonia. 
+- Use your second Awakening <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_25.png" width="20" height="20"> Oratorio once you unlock it since it does way more damage. Until then you can use <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_23.png" width="20" height="20"> Symphonia.
+<br/>
+<br/>
 
- ### Gameplay
+### Gameplay
  
  Chaos Dungeon and Cube content is fairly easy to complete. A simplified rotation is used:
 
@@ -54,19 +51,36 @@ The Cube is slightly more difficult than Chaos Dungeon and usually requires a pa
 
 Runes enhance skills with extra bonuses. All Rune drops are account bound and have limited availability, so placement of Runes on the correct skills is important. Below are the recommend parings. Check the *Rune Guide* for more details
 
+<br/>
+ 
 <p float="left">
-  <img src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/Screenshot%202022-02-17%20at%2003-07-50%20Bard%20Chaos%20Dungeon%20and%20Cube%20Guide%20for%20Lost%20Ark%20on%20Maxroll%20gg.png" width="400" 
-     
+  <img src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/Screenshot%202022-02-17%20at%2003-07-50%20Bard%20Chaos%20Dungeon%20and%20Cube%20Guide%20for%20Lost%20Ark%20on%20Maxroll%20gg.png" width="550"  height="500"
+         
 <div align="left"> Use <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Galewind on your main damage skill to reduce its casting animation.
+
+<img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Protection absorbs some damage while using your stationary or long animation skills.
   
-<div align="left"> <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Protection absorbs some damage while using your stationary or long animation skills.
+<img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Bleed paired with <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20">Dissonance helps apply the bleed debuff on multiple targets.
   
-<div align="left"> <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Bleed paired with <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20">Dissonance helps apply the bleed debuff on multiple targets.
-  
-<div align="left"> A low Cooldown skill like <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_1.png" width="20" height="20"> Sound Shock can be used frequently and has a higher chance to proc the effect of <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Quick Recharge.
+A low Cooldown skill like <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_1.png" width="20" height="20"> Sound Shock can be used frequently and has a higher chance to proc the effect of <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Quick Recharge.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+### Summary
 
+- [ ] Use your low Cooldown AoE abilities, <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_8.png" width="20" height="20"> Stigma and <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20"> Dissonance to do most of the heavy lifting.
+- [ ] Cast <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_12.png" width="20" height="20"> Heavenly Tune for the attack buff.
+- [ ] For tanky mobs, use the <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_20.png" width="20" height="20"> Prelude of Death combo for the chain explosion effect.
+- [ ] Killing Elites, Bosses and breaking Rift Cores grant a 40% Cooldown Reduction buff.
 
+## Support Bard - Raid Build
 
 
