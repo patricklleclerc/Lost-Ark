@@ -1,4 +1,4 @@
-[](
+<img src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/header.jpg" width="1000" height="300">
 
 # Lost Ark Progression Guide from T1-T3 (What To Do At Level 50)
 
