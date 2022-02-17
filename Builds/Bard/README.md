@@ -10,6 +10,8 @@ The Chaos and Cube build heavily focuses on large Area of Effect (AoE) skills wi
 
 ### Combat Stat Distribution
 
+Sub-stat priority is not important, as the content is easy as long as the player is using matching Tier Gear and accessories. Swiftness and Specializatioon stats help with speed clearing, but is not necessary if you don't have separate sets of accessories.
+
 ### Chaos & Cube Skill Build
 
 <p align="center">
@@ -34,6 +36,34 @@ The Chaos and Cube build heavily focuses on large Area of Effect (AoE) skills wi
 
 - Use your second Awakening <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_25.png" width="20" height="20"> Oratorio once you unlock it since it does way more damage. Until then you can use <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_23.png" width="20" height="20"> Symphonia. 
 
+ ### Gameplay
+ 
+ Chaos Dungeon and Cube content is fairly easy to complete. A simplified rotation is used:
+
+   1. Walk around in a circle to group up mobs.
+   2. Cast Heavenly Tune.
+   3. Cast Dissonance, then Stigma in front of you. The monsters will walk into the AoE, becoming slowed and staggered.
+   4. If needed, cast Prelude of Storm or Sonic Vibration to keep them stunned in the AoE.
+   5. For tankier mobs, you need to use Prelude of Death. This spell applies a stacking debuff on any monsters hit. After 2 seconds, if any monster with the debuff         dies, it unleashes a powerful explosion dealing insane damage to 1 nearby enemy. You can use this as a chain explosion of sorts, finishing off Elites and even   bosses.
+   
+**Ex: For bosses - Cast Heavenly Tune and Serenade of Courage. Gather small monsters near the boss and cast Prelude of Death. Then, cast your Awakening   (Symphonia/Oratorio). The monsters should stack on top of the boss during your cast animation and their on death explosion will proliferate to the Boss dealing massive damage.**
+
+The Cube is slightly more difficult than Chaos Dungeon and usually requires a party and stage knowledge to complete. Check out the Cube Guide and Chaos Dungeon Guide for more information.
+ 
+### Runes
+
+Runes enhance skills with extra bonuses. All Rune drops are account bound and have limited availability, so placement of Runes on the correct skills is important. Below are the recommend parings. Check the *Rune Guide* for more details
+
+<p float="left">
+  <img src="https://github.com/patricklleclerc/Lost-Ark/blob/main/misc/Screenshot%202022-02-17%20at%2003-07-50%20Bard%20Chaos%20Dungeon%20and%20Cube%20Guide%20for%20Lost%20Ark%20on%20Maxroll%20gg.png" width="400" 
+     
+<div align="left"> Use <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Galewind on your main damage skill to reduce its casting animation.
+  
+<div align="left"> <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Protection absorbs some damage while using your stationary or long animation skills.
+  
+<div align="left"> <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Bleed paired with <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_5.png" width="20" height="20">Dissonance helps apply the bleed debuff on multiple targets.
+  
+<div align="left"> A low Cooldown skill like <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/bd_skill_01_1.png" width="20" height="20"> Sound Shock can be used frequently and has a higher chance to proc the effect of <img src="https://d3planner-assets.maxroll.gg/lost-ark/icons/use_7_194.png" width="20" height="20"> Quick Recharge.
 
 
 
