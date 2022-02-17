@@ -2,6 +2,7 @@
 
   ## Builds
  ### [Bard](https://github.com/patricklleclerc/Lost-Ark/blob/main/Builds/Bard/README.md)
+   #### [Chaos Dungeon/Cube Build](https://github.com/patricklleclerc/Lost-Ark/blob/main/Builds/Bard/README.md#chaos-dungeoncube-build)
  
  
  
