@@ -4,13 +4,13 @@ This point is reached by following the Main Story quest line up to North Vern, w
 
 ## Item Level 302 (North Vern)
 
-- [ ] Complete Chaos Dungeons "North Vern Echo Level 1" and obtain a full Item Level 302  Crossing Paths gear set.
-- [ ] Unlock access to Abyssal Dungeons and the Shushire continent by completing the North Vern Main Story quest line.
+- [X] Complete Chaos Dungeons "North Vern Echo Level 1" and obtain a full Item Level 302  Crossing Paths gear set.
+- [X] Unlock access to Abyssal Dungeons and the Shushire continent by completing the North Vern Main Story quest line.
 - [ ] Optional: Complete the Shushire Main Story quest line to obtain a Wish Equipment Chest containing a free Item Level 302 Crossing Paths gear set.
 
 ## Item Level 340 (North Vern)
 
-- [ ] Upgrade your Crossing Paths gear set to +2 avarage.
+- [X] Upgrade your Crossing Paths gear set to +2 avarage.
 - [ ] Complete Abyssal Dungeons: Demon Beast Canyon and Necromancer's Origin.
 - [ ] Transfer into the Abyssal Dungeon epic set.
 
